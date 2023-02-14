@@ -1,0 +1,5 @@
+C:\Users\sivatejad\source\repos\ReqChatcassendra\ReqChat.Interface\obj\Debug\net7.0\ReqChat.Interface.csproj.AssemblyReference.cache
+C:\Users\sivatejad\source\repos\ReqChatcassendra\ReqChat.Interface\obj\Debug\net7.0\ReqChat.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivatejad\source\repos\ReqChatcassendra\ReqChat.Interface\obj\Debug\net7.0\ReqChat.Interface.AssemblyInfoInputs.cache
+C:\Users\sivatejad\source\repos\ReqChatcassendra\ReqChat.Interface\obj\Debug\net7.0\ReqChat.Interface.AssemblyInfo.cs
+C:\Users\sivatejad\source\repos\ReqChatcassendra\ReqChat.Interface\obj\Debug\net7.0\ReqChat.Interface.csproj.CoreCompileInputs.cache
