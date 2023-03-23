@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_2WayMessenger.Mediator</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\2WayMessenger.Interface\2WayMessenger.Interface.csproj" />
+    <ProjectReference Include="..\2WayMessenger.Model\2WayMessenger.Model.csproj" />
+  </ItemGroup>
+
+</Project>

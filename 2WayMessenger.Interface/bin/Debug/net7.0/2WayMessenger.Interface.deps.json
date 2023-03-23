@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "2WayMessenger.Interface/1.0.0": {
+        "dependencies": {
+          "2WayMessenger.Model": "1.0.0"
+        },
+        "runtime": {
+          "2WayMessenger.Interface.dll": {}
+        }
+      },
+      "2WayMessenger.Model/1.0.0": {
+        "runtime": {
+          "2WayMessenger.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2WayMessenger.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "2WayMessenger.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
